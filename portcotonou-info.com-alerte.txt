@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>ENCVR – Simulation de phishing</title>
+  <style>
+    body { font-family: Arial, sans-serif; text-align: center; margin-top: 50px; }
+    h1 { color: #D32F2F; }
+    p { font-size: 18px; }
+    .warning { font-weight: bold; color: #D32F2F; }
+  </style>
+</head>
+<body>
+  <h1>⚠ Attention !</h1>
+  <p class="warning">Vous venez d’exposer votre service à un cas de phishing.</p>
+  <p>Cette page fait partie d’un exercice de sensibilisation à la cybersécurité portuaire.</p>
+  <p>Ne cliquez jamais sur des liens inconnus et vérifiez toujours la source avant d’ouvrir des fichiers ou documents.</p>
+  <p>Pseudo utilisé dans l’exercice : <strong>JE VOUS INVITE A VENIR VISITER l'ENCVR A DAKAR</strong></p>
+</body>
+</html>
